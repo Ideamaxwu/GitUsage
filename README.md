@@ -13,7 +13,7 @@ git add .
 
 git commit -m "commit message"
 
-git push orign master
+git push origin master
 
 ##Git pull from github
 git pull
