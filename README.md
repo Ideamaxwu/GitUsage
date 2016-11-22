@@ -17,3 +17,19 @@ git push orign master
 
 ##Git pull from github
 git pull
+
+##Git more commands
+git status
+
+git log
+
+git remote add origin https://github.com/try-git/try_git.git
+
+git push -u origin master
+
+git diff HEAD
+
+git rm '*.txt'
+
+## Git tutorial
+https://try.github.io/
