@@ -20,9 +20,13 @@ git pull
 
 ## Git update my fork from remote repo
 git remote add yusuf *gitlink*
+
 git remote -v
+
 git fetch yusuf
+
 git merge yusuf/master
+
 git push origin master
 
 ##Git more commands
