@@ -15,8 +15,15 @@ git commit -m "commit message"
 
 git push origin master
 
-##Git pull from github
+## Git pull from github
 git pull
+
+## Git update my fork from remote repo
+git remote add yusuf *gitlink*
+git remote -v
+git fetch yusuf
+git merge yusuf/master
+git push origin master
 
 ##Git more commands
 git status
